@@ -1,5 +1,5 @@
 # MaestroDetalle_V11g (Actividad Propuesta En Clase Día  12/12/21)
-
+## Version del proyecto realizada además también en Jdeveloper 12.
 MaestroDetalle_V11g
 Ejemplo de MaestroDetalle con Framework de ADF.
 
