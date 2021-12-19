@@ -42,4 +42,4 @@ Deberá usar en la vista de la página, las siguientes herramientas:
 
 -Optimizar las vistas de manera conveniente.
 
-#### Version del proyecto realizada además también en Jdeveloper 12.
+#### Version del proyecto realizada también en Jdeveloper 12.
