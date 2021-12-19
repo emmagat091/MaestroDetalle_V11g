@@ -2,19 +2,22 @@
 
 
 
-## MaestroDetalle_V11g (Actividad Propuesta En Clase Día  12/12/21)
-  ###Formación con ADF en AYI Group.
+## MaestroDetalle_V11g (Actividad Propuesta En Clase Día  12/12/21).
+  
+  ### **Formación con ADF en AYI Group.** ###
 
-Integrantes:
-  
-  #Gatica , Emmanuel David
-  
+
 Profesor:
-  #PALIZA, Martin.
+**PALIZA, Martin.**
+  
 
-### Version del proyecto realizada además también en Jdeveloper 12.
-MaestroDetalle_V11g
-Ejemplo de MaestroDetalle con Framework de ADF.
+Itegrante: **Gatica , Emmanuel David.**
+  
+
+
+
+#### **MaestroDetalle_V11g Ejemplo de MaestroDetalle con Framework ADF.** ####
+
 
 Este ejemplo se ejecutó con el Jdeveloper 11g.
 
@@ -28,6 +31,7 @@ Tareas solicitadas por el profesor Martin Paliza:
 
 -Debemos realizar una página, la cual utilizar como referencia las tablas por defecto de (Departamentos, empleados y puestos de trabajo). A la hora de efectuar la página mencionada, usted deberá tener más valor, de las diferentes herramientas para poder mostrar de manera correcta las vistas.
 
+
 Deberá usar en la vista de la página, las siguientes herramientas:
 
 -PanelSpliter (vista general).
@@ -37,3 +41,5 @@ Deberá usar en la vista de la página, las siguientes herramientas:
 -PanelTabbled. -Realizar una gráfica, que represente, el salario de las personas del departamento (gráfico torta o circular).
 
 -Optimizar las vistas de manera conveniente.
+
+#### Version del proyecto realizada además también en Jdeveloper 12.
