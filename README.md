@@ -33,4 +33,4 @@ Deberá usar en la vista de la página, las siguientes herramientas:
 
 -Optimizar las vistas de manera conveniente.
 
-#### Version del proyecto realizada en Jdeveloper 12 en la clase.
+#### Versión del proyecto realizada en Jdeveloper 12 en la clase.
