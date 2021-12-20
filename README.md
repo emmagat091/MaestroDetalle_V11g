@@ -1,27 +1,18 @@
-
-
-
-
-## MaestroDetalle_V11g (Actividad Propuesta En Clase Día  12/12/21).
+# MaestroDetalle_V11g (Actividad Propuesta En Clase Día  17/12/21).
   
-  ### **Formación con ADF en AYI Group.** ###
-
+## **Formación con ADF en AYI Group.**
+  
 
 Profesor:
-**PALIZA, Martin.**
-  
+**Paliza, Martin.**  
 
-Itegrante: **Gatica , Emmanuel David.**
-  
+Integrante: **Gatica , Emmanuel David.**
 
+### **MaestroDetalle_V11g Ejemplo de MaestroDetalle con Framework ADF.**
 
+***Versión  ejecutada con el Jdeveloper 11g.***
 
-#### **MaestroDetalle_V11g Ejemplo de MaestroDetalle con Framework ADF.** ####
-
-
-Este ejemplo se ejecutó con el Jdeveloper 11g.
-
-Tareas solicitadas por el profesor Martin Paliza:
+Tareas solicitadas:
 
 -Desarrolle una aplicación "Fusion web application ADF"
 
@@ -42,4 +33,4 @@ Deberá usar en la vista de la página, las siguientes herramientas:
 
 -Optimizar las vistas de manera conveniente.
 
-#### Version del proyecto realizada también en Jdeveloper 12.
+#### Version del proyecto realizada en Jdeveloper 12 en la clase.
